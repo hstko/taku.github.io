@@ -1,7 +1,63 @@
 ---
-title: "taku.github.io"
+title: "Taku Hasegawa"
+about:
+  template: solana
+  image: figures/photo.jpeg
+  image-width: 10em
+  image-shape: round
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com
+    - icon: github
+      text: GitHub
+      href: https://github.com
+    - icon: google-scholar
+      text: Google Scholar
+      href: https://scholar.google.co.jp/citations?hl=ja&user=8MQwGgoAAAAJ&view_op=list_works&sortby=pubdate
 ---
 
-This is a Quarto website.
+## About
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am a Research Engineer at NTT (Human Informatics Laboratories, Japan) since 2019.  
+My research interests include neural networks, optimization, vision and language models, and meta-learning.
+
+## Brief CV
+
+- **Jan. 2019 – Present**: Researcher, NTT Corporation, Japan  
+- **Apr. 2018 – Dec. 2018**: Postdoctoral Fellow (PD), Japan Society for the Promotion of Science (JSPS)  
+- **Apr. 2016 – Mar. 2018**: Ph.D. student, Graduate School of Engineering, Osaka Prefecture University  
+- **Apr. 2014 – Mar. 2016**: M.S. student, Graduate School of Engineering, Osaka Prefecture University  
+- **Apr. 2011 – Mar. 2014**: Undergraduate studies, Osaka Prefecture University (Early graduation)
+
+## Publications
+
+### Recent Publications
+
+**Portable Reward Tuning: Towards Reusable Fine-Tuning across Different Pretrained Models**  
+Daiki Chijiwa, Taku Hasegawa, Kyosuke Nishida, Kuniko Saito, Susumu Takeuchi.  
+*International Conference on Machine Learning (ICML), 2025.*
+
+**Wavelet-based Positional Representation for Long Context**  
+Yui Oka, Taku Hasegawa, Kyosuke Nishida, Kuniko Saito.  
+*International Conference on Learning Representations (ICLR), 2025.*
+
+
+**VDocRAG: Retrieval-Augmented Generation over Visually‑Rich Documents**  
+Ryota Tanaka, Taichi Iki, Taku Hasegawa, Kyosuke Nishida, Kuniko Saito, Jun Suzuki.  
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.* 
+
+**DueT: Image‑Text Contrastive Transfer Learning with Dual‑adapter Tuning**  
+Taku Hasegawa, Kyosuke Nishida, Koki Maeda, Kuniko Saito. *Empirical Methods in Natural Language Processing (EMNLP), 2023.*
+
+**SlideVQA: A Dataset for Document Visual Question Answering on Multiple Images**  
+Ryota Tanaka, Kyosuke Nishida, Kosuke Nishida, Taku Hasegawa, Itsumi Saito, Kuniko Saito. 
+*Association for the Advancement of Artificial Intelligence (AAAI), 2023.*
+
+**Scene‑Text Aware Image and Text Retrieval with Dual‑Encoder**  
+Shumpei Miyawaki, Taku Hasegawa, Kyosuke Nishida, Takuma Kato, Jun Suzuki. 
+*Annual Meeting of the Association for Computational Linguistics, Student Research Workshop (ACL SRW), 2022.*
+
+---
+
+For the complete list of my publications, please refer to my [Google Scholar profile](https://scholar.google.co.jp/citations?hl=ja&user=8MQwGgoAAAAJ&view_op=list_works&sortby=pubdate).

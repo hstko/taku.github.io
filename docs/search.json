@@ -2,15 +2,29 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "taku.github.io",
+    "title": "Taku Hasegawa",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "I am a Research Engineer at NTT (Human Informatics Laboratories, Japan) since 2019.\nMy research interests include neural networks, optimization, vision and language models, and meta-learning."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Taku Hasegawa",
     "section": "",
-    "text": "About this site"
+    "text": "I am a Research Engineer at NTT (Human Informatics Laboratories, Japan) since 2019.\nMy research interests include neural networks, optimization, vision and language models, and meta-learning."
+  },
+  {
+    "objectID": "index.html#brief-cv",
+    "href": "index.html#brief-cv",
+    "title": "Taku Hasegawa",
+    "section": "Brief CV",
+    "text": "Brief CV\n\nJan. 2019 – Present: Researcher, NTT Corporation, Japan\n\nApr. 2018 – Dec. 2018: Postdoctoral Fellow (PD), Japan Society for the Promotion of Science (JSPS)\n\nApr. 2016 – Mar. 2018: Ph.D. student, Graduate School of Engineering, Osaka Prefecture University\n\nApr. 2014 – Mar. 2016: M.S. student, Graduate School of Engineering, Osaka Prefecture University\n\nApr. 2011 – Mar. 2014: Undergraduate studies, Osaka Prefecture University (Early graduation)"
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Taku Hasegawa",
+    "section": "Publications",
+    "text": "Publications\n\nRecent Publications\nPortable Reward Tuning: Towards Reusable Fine-Tuning across Different Pretrained Models\nDaiki Chijiwa, Taku Hasegawa, Kyosuke Nishida, Kuniko Saito, Susumu Takeuchi.\nInternational Conference on Machine Learning (ICML), 2025.\nWavelet-based Positional Representation for Long Context\nYui Oka, Taku Hasegawa, Kyosuke Nishida, Kuniko Saito.\nInternational Conference on Learning Representations (ICLR), 2025.\nVDocRAG: Retrieval-Augmented Generation over Visually‑Rich Documents\nRyota Tanaka, Taichi Iki, Taku Hasegawa, Kyosuke Nishida, Kuniko Saito, Jun Suzuki.\nIEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.\nDueT: Image‑Text Contrastive Transfer Learning with Dual‑adapter Tuning\nTaku Hasegawa, Kyosuke Nishida, Koki Maeda, Kuniko Saito. Empirical Methods in Natural Language Processing (EMNLP), 2023.\nSlideVQA: A Dataset for Document Visual Question Answering on Multiple Images\nRyota Tanaka, Kyosuke Nishida, Kosuke Nishida, Taku Hasegawa, Itsumi Saito, Kuniko Saito. Association for the Advancement of Artificial Intelligence (AAAI), 2023.\nScene‑Text Aware Image and Text Retrieval with Dual‑Encoder\nShumpei Miyawaki, Taku Hasegawa, Kyosuke Nishida, Takuma Kato, Jun Suzuki. Annual Meeting of the Association for Computational Linguistics, Student Research Workshop (ACL SRW), 2022.\n\nFor the complete list of my publications, please refer to my Google Scholar profile."
   }
 ]
