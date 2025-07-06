@@ -16,9 +16,9 @@ about:
       text: Google Scholar
       href: https://scholar.google.co.jp/citations?hl=ja&user=8MQwGgoAAAAJ&view_op=list_works&sortby=pubdate
 ---
-
+- E-mail: taku.hasegawa [at] ntt.com
+- 
 ## About
-
 I am a Research Engineer at NTT (Human Informatics Laboratories, Japan) since 2019.  
 My research interests include neural networks, optimization, vision and language models, and meta-learning.
 
